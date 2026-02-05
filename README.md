@@ -11,7 +11,7 @@
 ###
 
 <h1 align="Center">👨‍💻 About Me</h1>
-<p align="center">🤝 Hi,there i am wayp1ner aka sinteran.</p>
+<p align="center">🤝 Hi,there i am wayp1ner aka sinteran(the profile credits VietPhunt).</p>
 
 ###
 
