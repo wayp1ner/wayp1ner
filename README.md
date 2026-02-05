@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="img/cute-cat-typing.gif" width="30%">
+    <img src="cute-cat-typing.gif" width="30%">
 </div>
 
 ###
 
 <div align="center">
-    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
+    <img src="gradient.png" width="75%" alt="Gradient image"/>
 </div>
 
 ###
