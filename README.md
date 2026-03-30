@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=wayp1ner&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wayp1ner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wayp1ner&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=wayp1ner&icon=10&color=1)](https://visitcount.itsvg.in)
 
